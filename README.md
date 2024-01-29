@@ -5,10 +5,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/phillipe-sobrinho-bb585688/
 - ⚡ Hobs: Play Guitar, Bass, Drums
 
-
  <b>## Learning ##</b> <br>
-
-<div  style="display: inline-block"><br/>
+<div style="display: inline_block"><br/>
     <img aligh="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 <div  style="display: inline-block"><br/>
